@@ -5,4 +5,6 @@ select
 from
 	dbo.belle
 where
-	id < 99;
+	id < 99
+	and a in (1,2,3)
+	and b in (5,6);
