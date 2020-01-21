@@ -1,0 +1,101 @@
+[33mcommit e324540b037c15e390cdc550b052fef568209565[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: Tom Ciolek <tom.ciolek@convercent.com>
+Date:   Fri Jan 17 14:03:20 2020 -0700
+
+    query adjusting
+
+ Blah/Nephews/Dewey.sql | 11 [32m++++++++++[m[31m-[m
+ 1 file changed, 10 insertions(+), 1 deletion(-)
+
+[33mcommit a9ca75cd03b7bf29a73c3478b982977cb71b50d0[m
+Author: Tom Ciolek <tom.ciolek@convercent.com>
+Date:   Fri Jan 17 14:01:36 2020 -0700
+
+    renaming to SQL
+
+ Blah/Nephews/{Dewey.txt => Dewey.sql} | 0
+ Blah/Nephews/{Huey.txt => Huey.sql}   | 0
+ 2 files changed, 0 insertions(+), 0 deletions(-)
+
+[33mcommit 4c64af6713358cfa0025ae6e0caa75d31967c219[m
+Author: Tom Ciolek <tom.ciolek@convercent.com>
+Date:   Fri Jan 17 13:59:55 2020 -0700
+
+    adding nephews
+
+ Blah/Nephews/Dewey.txt | 2 [32m++[m
+ Blah/Nephews/Huey.txt  | 2 [32m++[m
+ 2 files changed, 4 insertions(+)
+
+[33mcommit 9043a4e85c36039dfa78ef9e515a2852d4c771aa[m
+Author: Tom Ciolek <tom.ciolek@convercent.com>
+Date:   Fri Jan 17 13:43:09 2020 -0700
+
+    sql error
+
+ Blah/donald.txt | 4 [32m+++[m[31m-[m
+ 1 file changed, 3 insertions(+), 1 deletion(-)
+
+[33mcommit 6feef4c1b748f1530f8af98893cc2cc9efba3edc[m
+Author: Tom Ciolek <tom.ciolek@convercent.com>
+Date:   Fri Jan 17 13:41:49 2020 -0700
+
+    sql version
+
+ Blah/donald.txt | 11 [32m++++++++[m[31m---[m
+ 1 file changed, 8 insertions(+), 3 deletions(-)
+
+[33mcommit 0cafbf4802df9832edae28d36201d38965b94ec5[m
+Author: Tom Ciolek <tom.ciolek@convercent.com>
+Date:   Fri Jan 17 13:37:36 2020 -0700
+
+    renaming one.txt to donald.txt
+
+ Blah/{one.txt => donald.txt} | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+[33mcommit 5f9a8bf3977c10274c727785a16f5dfa0e58f97c[m
+Author: Tom Ciolek <tom.ciolek@convercent.com>
+Date:   Fri Jan 17 13:34:35 2020 -0700
+
+    fourth commit
+
+ Dev/dumbo.txt  | 4 [32m+++[m[31m-[m
+ Test/daisy.txt | 1 [32m+[m
+ Test/goofy.txt | 2 [32m+[m[31m-[m
+ 3 files changed, 5 insertions(+), 2 deletions(-)
+
+[33mcommit 5f878673e23aa2c0a6222146b51738504d5ffa1b[m
+Author: Tom Ciolek <tom.ciolek@convercent.com>
+Date:   Fri Jan 17 13:30:03 2020 -0700
+
+    third commit
+
+ Blah/one.txt    | 4 [32m+++[m[31m-[m
+ Test/minnie.txt | 1 [32m+[m
+ Test/pluto.txt  | 3 [32m+++[m
+ 3 files changed, 7 insertions(+), 1 deletion(-)
+
+[33mcommit 8c0c3ffd1d4046a3456cfc88e7e5c19f686371b6[m
+Author: Tom Ciolek <tom.ciolek@convercent.com>
+Date:   Fri Jan 17 13:29:19 2020 -0700
+
+    second commit
+
+ Test/minnie.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+[33mcommit 90cee405af3a52ef076b133fab2cf2b89b632039[m
+Author: Tom Ciolek <tom.ciolek@convercent.com>
+Date:   Fri Jan 17 12:33:30 2020 -0700
+
+    First commit
+
+ Blah/one.txt        | 1 [32m+[m
+ Dev/Beast/belle.txt | 1 [32m+[m
+ Dev/dumbo.txt       | 1 [32m+[m
+ Dev/olaf.txt        | 1 [32m+[m
+ README.md           | 1 [32m+[m
+ Test/goofy.txt      | 1 [32m+[m
+ Test/pluto.txt      | 1 [32m+[m
+ 7 files changed, 7 insertions(+)
